@@ -12,7 +12,7 @@
 
 ```javascript
 const manojkumar = {
-    location: "India 🇮🇳",
+    location: "India 🇮🇳 Madurai",
     role: "Fullstack Developer",
     currentFocus: "AI Agents & Next-Gen Solutions",
     passions: ["React", "React Native", "AI/ML", "Building Cool Stuff"],
